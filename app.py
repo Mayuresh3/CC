@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Cloud Computing")
+st.write("Cloud Computing")
 
 num = st.number_input('Pick a number', 0, 100)
 # if(num>90):
